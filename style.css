@@ -1,0 +1,18 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.img{
+    width: 450px;
+    height: 350px;
+    display: flex;
+}
+
+.images{
+    width: 600px;
+    height: 400px;
+}
+
+.align{
+    text-align: center;
+}
